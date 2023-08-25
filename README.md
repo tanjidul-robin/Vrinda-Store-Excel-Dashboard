@@ -2,9 +2,19 @@
 
 Welcome to the Vrinda Store Sale Excel Visualization Project! This project showcases insightful visualizations and data analysis for sales data from Vrinda Store. By harnessing Excel's pivot tables, charts, and interactive elements, this project uncovers valuable insights into sales trends, customer demographics, and order status.
 
+## Vrinda Sales Insights
+
+1. Women are more likely to buy compared to men (~65%)
+2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(~35%)
+3. Amazon, Flipcart and Myntra channels are max contributor (~80%)
+4. Adult age group (30-49 yrs) is max contributor (~50%)
+
+## Final Conclusion to improve Vrinda store sales:
+
+Target women custommers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/ offers/coupons available on Amazon, Flipcart and Myntra.
 ## Project Highlights
 
-The Vrinda Store Sale Excel Visualization Project encompasses the following key highlights:
+### The Vrinda Store Sale Excel Visualization Project encompasses the following key highlights:
 
 ### Pivot Tables and Charts
 
