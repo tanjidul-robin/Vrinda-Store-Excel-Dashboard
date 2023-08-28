@@ -1,5 +1,5 @@
 Vrinda Sales Analysis
-Sample Insights
+Insights
 1. Women are more likely to buy compared to men (~65%)
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(~35%)
 3. Amazon, Flipcart and Myntra channels are max contributor (~80%)
